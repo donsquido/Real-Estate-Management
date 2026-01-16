@@ -1,12 +1,19 @@
 # Real-Estate-Php
+Overview
+A full-stack real estate web application that allows users to browse, add, and manage property listings with database-backed functionality.
 
+Tech Stack
+• HTML, CSS, JavaScript
+• Node.js
+• MySQL
 
-
-Realestate Management system
+Key Features
+• User authentication
+• Property listing and filtering
+• CRUD operations with database integration
+• REST-style backend logic
 
 This is a ready to use web application for managing Real Estate System. the application is built on PHP and Mysql, its interface is very user friendly.
-
-Description
 
 It can easily be used to manage two different group of users with different permission level.User can find Property easily in particular and Specific Location,Loan Calculator, Admin can Manage all data , User can Add property etc....
 
