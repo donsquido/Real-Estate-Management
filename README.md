@@ -31,6 +31,6 @@ It can easily be used to manage two different group of users with different perm
 
     $con = mysqli_connect("server_name","user_name","password","Database_name");
 
-Import the Database in Your Server like Xampp, Wamp
+Import the Database in Your Server like Xampp, Wamp, etc
 
 Database Name -: developer
